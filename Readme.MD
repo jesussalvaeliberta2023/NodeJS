@@ -1,7 +1,7 @@
 !Para ativar o NodeJS vc precisa estar com ele instalado!
 
 Abra o terminal
-E redirecione sua saída de comando para pasta onde está instalado o NodeJS
+Redirecione sua saída de comando para pasta onde está instalado o NodeJS
   "cd PataOndeEstá/nodejs-env"
 
 Com ele instalado, para ativar digite:
