@@ -10,7 +10,7 @@ Com ele instalado, para roda-lo digite:
   "source ./bin/activate"  
   
 Com ele rodando saia da pasta atual e abra a pasta do repositório do GitHub  
-  "cd ~  
+  "cd ~"  
   "cd PastaOndeEstá/GitHub/NodeJS"  
   
 Verifique se o arquivo index.js está tudo certo (Opcional)  
