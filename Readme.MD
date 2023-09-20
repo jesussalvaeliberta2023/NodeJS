@@ -2,17 +2,17 @@
 
 Abra o terminal
 E redirecione sua saída de comando para pasta onde está instalado o NodeJS
-  cd PataOndeEstá/nodejs-env
+  "cd PataOndeEstá/nodejs-env"
 
 Com ele instalado, para ativar digite:
-  source ./nodejs-env/bin/activate
+  "source ./nodejs-env/bin/activate"
 
 Após ativado
 Abra a pasta src
-  cd nodejs-env/src
+  "cd nodejs-env/src"
 
 Abra o arquivo index.js
-  sudo nano index.js
+  "sudo nano index.js"
 
 Copie o código do index.js do repositório
 Com o nano do seu arquivo aberto, edite-o
@@ -21,7 +21,7 @@ Com o nano do seu arquivo aberto, edite-o
   Saindo: Ctrl+X
 
 Por fim ative o arquivo
-  node index.js
+  "node index.js"
 
 No navegador de sua preferência digite
   localhost:8008
