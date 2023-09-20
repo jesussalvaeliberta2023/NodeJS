@@ -6,12 +6,11 @@ Abra o terminal
 Redirecione sua saída de comando para pasta onde está instalado o NodeJS
   "cd PataOndeEstá/nodejs-env"
 
-Com ele instalado, para ativar digite:
-  "source ./nodejs-env/bin/activate"
+Com ele instalado, para roda-lo digite:
+  "source ./bin/activate"
 
-Após ativado, abra a pasta src
-  "cd nodejs-env/src"
-
+Com ele rodando saia da pasta atual e abra a pasta do repositório do GitHub
+  cd 
 Abra o arquivo index.js
   "sudo nano index.js"
 
