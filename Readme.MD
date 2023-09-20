@@ -3,7 +3,6 @@
 Abra o terminal
 E redirecione sua saída de comando para pasta onde está instalado o NodeJS
   cd PataOndeEstá/nodejs-env
-PS: use a barra se necessário
 
 Com ele instalado, para ativar digite:
   source ./nodejs-env/bin/activate
